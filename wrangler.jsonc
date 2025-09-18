@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "jack-magma-00",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "JackMagma",
+      "database_id": "a6589571-736d-423f-aaaf-fbd42bbc6ff1"
+    }
+  ]
+}
